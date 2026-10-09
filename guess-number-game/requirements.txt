@@ -1,0 +1,3 @@
+# Guess the Number - Requirements
+# This project uses only standard Python libraries (e.g., random).
+# No external dependencies are required.
